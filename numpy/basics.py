@@ -8,6 +8,8 @@ print(data)
 # Statistical data is availabe in the arrays
 print(data.mean())
 print(data.sum())
+print(data.var())
+print(data.std())
 
 matrix = np.array([
     [1, 1, 3, 5, 8, 13],
