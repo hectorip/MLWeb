@@ -1,11 +1,12 @@
 import numpy as np
 
-
+# Declaración de Array
 data = np.array([1, 1, 3, 5, 8, 13])
 
 print(data)
 
-# Statistical data is availabe in the arrays
+# Los datos estadísiticos están disponibles como
+# funciones de arrays
 print(data.mean())
 print(data.sum())
 print(data.var())
