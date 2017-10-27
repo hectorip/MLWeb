@@ -21,13 +21,13 @@ print(matrix)
 f_array = np.array([1, 5, 6, 7, 7], float)
 print(f_array)
 
-# Transpose
+# Transpuesta
 print(matrix.T)
 
-# dot Product
+# Producto punto
 print(matrix.dot(matrix.T))
 
-# Simple multiplication
+# Operaciones simples
 
 print(matrix * matrix)
 print(matrix * 2)
